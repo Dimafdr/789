@@ -39,7 +39,7 @@ TEMPLATE_DIRS = (
     os.path.join(SETTINGS_PATH, 'templates'),
 )
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '79.174.83.128']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '89.104.70.129']
 
 EMAIL_HOST = 'localhost'
 EMAIL_PORT = '25'
